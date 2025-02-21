@@ -1,5 +1,6 @@
 # 🌍 AI Language Trainer: A Personalized Language Learning System
 
+![App Demo](assets/demo.gif)
 
 ## Overview
 The AI Language Trainer is an intelligent language-learning tool that reinforces vocabulary through flashcards and generates custom stories incorporating learned words. Using machine learning, it adapts to the user’s progress, making language acquisition more engaging and effective.
