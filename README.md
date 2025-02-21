@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  ![App Demo](assets/demo.gif)
+  <img src="assets/demo.gif" />
 </p>
 
 
